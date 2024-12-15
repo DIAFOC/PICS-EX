@@ -11,7 +11,7 @@
     Es un programa de control de versiones gratis y open source diseñado para proyectos en general 
 # Para que sirve Git?
     Para llevar un control de la actualizacion osbre un proyecto en un equipo de trabajo con diferentes redes involucrados 
-# Que es GitHuB?
+# Que es Github?
     Una prataforma para la publicacion y consulta de software open source 
 # Para que sirve Github?
     Para la publicacion, consulta y administracion de software entre equipos de trabajo 
