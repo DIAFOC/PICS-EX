@@ -9,3 +9,5 @@
   ## [06](https://github.com/DIAFOC/PICS-EX3.git)
 
   ## [07](https://github.com/DIAFOC/PICS-EX3.git)
+
+  ## [08](Practica-08.md)
